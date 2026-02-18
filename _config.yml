@@ -1,3 +1,6 @@
 title: harasunflower
 description: let's try
 theme: jekyll-theme-leap-day
+markdown: kramdown
+plugins:
+  - jekyll-feed
