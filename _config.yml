@@ -1,5 +1,5 @@
 title: harasunflower
 description: let's try
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
